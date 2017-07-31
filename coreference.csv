@@ -1,0 +1,202 @@
+ichiro_suzuki (athlete),ichiro (athlete),2,0.5,yes_coreference
+elroy_hirsch,crazy_legs,1,1.0,yes_coreference
+hands_of_stone,roberto_duran,1,1.0,yes_coreference
+shaq,shaq_o_neal,5,1.0,yes_coreference
+shaq,shaquille_oneal,1,1.0,yes_coreference
+shaquille_oneal,shaq,1,1.0,yes_coreference
+shaquille_oneal,shaq_o_neal,1,1.0,yes_coreference
+tebow,tim_tebow,4,1.0,yes_coreference
+ac_milan,benfica,3,0.333,no_coreference
+bc_lions,edmonton_eskimos,2,0.5,no_coreference
+benfica,ac_milan,3,0.333,no_coreference
+chicago_cubs,cubbies,3,1.0,yes_coreference
+jacksonville_jaguars,jags,5,0.6,yes_coreference
+red_sox,olde_towne_team,1,1.0,yes_coreference
+sun_devils,ucla,5,0.4,no_coreference
+tarheels,unc_tarheels,1,1.0,yes_coreference
+minnesota_vikings,falcons,14,0.5,no_coreference
+rams,titans,12,0.667,no_coreference
+dallas_cowboys,seahawks,14,0.5,no_coreference
+pittsburgh_penguins,ottawa_senators,15,0.467,no_coreference
+pirates,chicago_cubs,13,0.385,no_coreference
+rams,seahawks,13,0.538,no_coreference
+chicago_bears_in_super_bowl_xli,seahawks,1,1.0,no_coreference
+dallas_mavericks,miami_hurricanes,15,0.467,no_coreference
+seahawks,chicago_bears_in_super_bowl_xli,1,1.0,no_coreference
+beijing,peking,1,1.0,yes_coreference
+benares,varanasi,1,1.0,yes_coreference
+bombay,mumbai,6,0.333,yes_coreference
+brooklyn,prospect,1,1.0,no_coreference
+calcutta,kolkata,3,0.667,yes_coreference
+canton,guangzhou,4,0.25,yes_coreference
+danzig,gdansk,1,1.0,yes_coreference
+dc,guyana,19,0.105,no_coreference
+dc,howard,1,1.0,no_coreference
+essaouira,mogador,1,1.0,yes_coreference
+gdansk,danzig,1,1.0,yes_coreference
+guangzhou,canton,4,0.25,yes_coreference
+hong_kong_island,canton,8,0.125,no_coreference
+ho_chi_minh_city,saigon,4,0.5,yes_coreference
+jalandhar,jullundur,1,1.0,yes_coreference
+kamloops,british_columbia,1,1.0,no_coreference
+katni,murwara,1,1.0,no_coreference
+kelowna,british_columbia,1,1.0,no_coreference
+los_banos,la,10,0.1,no_coreference
+los_banos,lam,1,1.0,no_coreference
+los_banos,l_a_,14,0.143,no_coreference
+los_banos,llan,1,1.0,no_coreference
+mumbai,bombay,6,0.333,yes_coreference
+new_york,hudson,10,0.1,no_coreference
+northwest_washington,guyana,1,1.0,no_coreference
+northwest_washington,howard,1,1.0,no_coreference
+omaha,creighton,2,0.5,no_coreference
+orense,ourense,1,1.0,yes_coreference
+philadelphia,philly,6, 1,yes_coreference
+rio,rio_grande,4,0.5,no_coreference
+santiago,campo_grande,3,0.333,no_coreference
+santiago,rio_grande,3,0.333,no_coreference
+saskatchewan,british_columbia,1,1.0,no_coreference
+sonepat,sonipat,1,1.0,yes_coreference
+thana,thane,1,1.0,yes_coreference
+vancouver,british_columbia,1,1.0,no_coreference
+saigon,ho_chi_minh_city,4,0.5,yes_coreference
+coquitlam,british_columbia,1,1.0,no_coreference
+hanoi,saigon,5,0.2,no_coreference
+istanbul,constantinople,2,1.0,yes_coreference
+louisiana,mississippi,45,0.089,no_coreference
+nanaimo,british_columbia,1,1.0,no_coreference
+new_westminster,british_columbia,1,1.0,no_coreference
+prince_george,british_columbia,1,1.0,no_coreference
+bombay,kolkata,2,0.5,no_coreference
+mumbai,kolkata,5,0.4,no_coreference
+burnaby,british_columbia,1,1.0,no_coreference
+abbotsford,british_columbia,1,1.0,no_coreference
+madras,chennai,2,0.5,yes_coreference
+constantinople,istanbul,2,1.0,yes_coreference
+victoria,british_columbia,1,1.0,no_coreference
+chilliwack,british_columbia,1,1.0,no_coreference
+kochi,cochin,2,1.0,yes_coreference
+moncton,new_brunswick,2,0.5,no_coreference
+st_louis,mississippi,8,0.125,no_coreference
+kozhikode,calicut,1,1.0,yes_coreference
+cochin,kochi,2,1.0,yes_coreference
+memphis,mississippi,7,0.143,no_coreference
+surrey,british_columbia,1,1.0,no_coreference
+kolkata,calcutta,3,0.667,yes_coreference
+jullundur,jalandhar,1,1.0,yes_coreference
+cheektowaga,new_york,2,0.5,no_coreference
+manhattan,hudson,1,1.0,no_coreference
+antakya,hatay,1,1.0,no_coreference
+baharampur,berhampore,1,1.0,yes_coreference
+baroda,vadodara,1,1.0,yes_coreference
+howrah,haora,1,1.0,yes_coreference
+akyab,sittwe,1,1.0,yes_coreference
+mawlamyine,moulmein,1,1.0,yes_coreference
+pyay,prome,1,1.0,yes_coreference
+british_columbia,northwest_territories,1,1.0,no_coreference
+british_columbia,puget_sound,1,1.0,no_coreference
+dc,new_york,28,0.071,no_coreference
+gulfport,mississippi,5,0.2,no_coreference
+prospect,brooklyn,1,1.0,no_coreference
+british_columbia,northwest_washington,1,1.0,no_coreference
+british_columbia,winnipeg,1,1.0,no_coreference
+baton_rouge,mississippi,13,0.077,no_coreference
+british_columbia,john,1,1.0,no_coreference
+british_columbia,los_banos,1,1.0,no_coreference
+batavia,jakarta,1,1.0,yes_coreference
+british_columbia,merritt,1,1.0,no_coreference
+prome,pyay,1,1.0,yes_coreference
+sittwe,akyab,1,1.0,yes_coreference
+strathcona,alberta,1,1.0,no_coreference
+st_paul,mississippi,1,1.0,no_coreference
+berhampore,baharampur,1,1.0,yes_coreference
+campbell_river,british_columbia,1,1.0,no_coreference
+chennai,madras,3,0.333,yes_coreference
+halicarnassus,bodrum,1,1.0,yes_coreference
+haora,howrah,1,1.0,yes_coreference
+hatay,antakya,1,1.0,no_coreference
+johannesburg,rio,5,0.2,no_coreference
+kataka,cuttack,1,1.0,yes_coreference
+leningrad,st_petersburg,3,0.667,yes_coreference
+los_banos,rio,12,0.083,no_coreference
+moulmein,mawlamyine,1,1.0,yes_coreference
+murwara,katni,1,1.0,no_coreference
+smyrna,izmir,1,1.0,yes_coreference
+sonipat,sonepat,1,1.0,yes_coreference
+stalingrad,volgograd,2,1.0,yes_coreference
+west_hollywood,la,3,0.333,no_coreference
+izmit,kocaeli,1,1.0,no_coreference
+mogador,essaouira,1,1.0,yes_coreference
+kashi,varanasi,2,0.5,yes_coreference
+madrid,rio,10,0.1,no_coreference
+merritt,british_columbia,1,1.0,no_coreference
+new_brunswick,british_columbia,1,1.0,no_coreference
+northwest_washington,rush,1,1.0,no_coreference
+recife,rio,2,0.5,no_coreference
+the_dalles,british_columbia,1,1.0,no_coreference
+aaron_mckie,aaron_mckie,5,0.4,yes_coreference
+danny_granger (actor),danny_granger (coach),6,0.167,yes_coreference
+juliette_binoche (actor),la_binoche,2,1.0,yes_coreference
+oprah_winfrey (actor),oprah,1,1.0,yes_coreference 
+caron_butler (athlete),eric_piatkowski (athlete),5,0.8,no_coreference
+caron_butler (athlete),caron_butler (comedian),7,0.571,yes_coreference
+caron_butler (athlete),caron_butler (person),7,0.571,yes_coreference
+fielder,prince_fielder,1,1.0,yes_coreference
+manu_ginobili (athlete),manu_ginobili (person),7,0.286,yes_coreference
+quarterback_sam_bradford,sam_bradford,1,1.0,yes_coreference
+raja_bell (athlete),raja_bell (comedian),4,0.25,yes_coreference
+tyson_chandler (athlete),tyson_chandler (person),3,0.333,yes_coreference
+beyonce_knowles (celebrity),knowles,1,1.0,yes_coreference
+sammy_sosa (coach),juan_gonzalez,7,0.143,no_coreference
+sammy_sosa (coach),sammy_sosa (person),9,0.111,yes_coreference
+beyonce (female),knowles,1,1.0,yes_coreference
+bob_wilson (journalist),bob_primrose_wilson,1,1.0,yes_coreference
+linda_hogan (female),linda_marie_bollea,1,1.0,yes_coreference
+bob_wilson (journalist),bob_primrose_wilson,1,1.0,yes_coreference
+aaron_mckie (male),aaron_mckie (actor),5,0.4,yes_coreference
+aaron_mckie (male),mitch_stetter,5,0.4,no_coreference
+aaron_mckie (male),raymond_felton (athlete),4,0.5,yes_coreference
+chris_brown (male),christopher_brown (personnorthamerica),2,1.0,yes_coreference
+abdul_rahim_noor,abdul_rahim,1,1.0,yes_coreference
+alberto_gonzales (person),al_gonzales,1,1.0,yes_coreference
+abu_zubaydah,abu_zubeidah,1,1.0,yes_coreference
+albert_pujols,albert_belle (athlete),1,1.0,no_coreference
+al_hubbard,allan_hubbard,1,1.0,yes_coreference
+doctor_death,jack_kevorkian (scientist),1,1.0,yes_coreference
+honest_abe,abraham_lincoln (politicianus),2,0.5,yes_coreference
+jason_williams (person),jason_williams (actor),8,0.5,yes_coreference
+king_of_pop,michael_jackson (musician),2,1.0,yes_coreference
+vernon_bellecourt,daybreak,1,1.0,yes_coreference
+william_cody,buffalo_bill,1,1.0,yes_coreference
+brad_miller (personcanada),adam_morrison (personaustralia),1,1.0,no_coreference
+jackie_robinson (personaustralia),david_lee,6,0.167,no_coreference
+adam_morrison (personaustralia),aaron_mckie (personus),7,0.429,no_coreference
+yolanda_king,yoki,1,1.0,yes_coreference
+tyson_chandler (person),tyson_chandler (athlete),3,0.333,yes_coreference
+jamaal_magloire (person),granger,4,0.5,no_coreference
+caron_butler (person),eric_snow,1,1.0,no_coreference
+kevin,ray_allen (celebrity),1,1.0,no_coreference
+cal_ripken,jr_smith,1,1.0,no_coreference
+wayne_simien,danny_granger (person),2,0.5,no_coreference
+wayne_simien,jamaal_magloire (person),2,0.5,no_coreference
+mitch_stetter,adam_morrison (personmexico),6,0.167,no_coreference
+mitch_stetter,aaron_mckie (personus),5,0.4,no_coreference
+mitch_stetter,brad_miller (politicianus),1,1.0,no_coreference
+marquis_daniels (athlete),eric_piatkowski (athlete),2,0.5,no_coreference
+chris_young (athlete),dmitri_young,6,0.167,no_coreference
+billy_wagner (athlete),j_r__smith (person),1,1.0,no_coreference
+billy_wagner (athlete),griffey_jr_,1,1.0,no_coreference
+department_of_energy,doe,1,0.5,yes_coreference
+farm_credit_administration,fca,1,1,yes_coreference
+federal_emergency_management_agency,fema,2,0.5,yes_coreference
+federal_motor_carrier_safety_administration,fmcsa,1,1,yes_coreference
+federal_trade_commission,ftc,1,1,yes_coreference
+internal_revenue_service,irs,2,1,yes_coreference
+international_trade_administration,ita,1,0.5,yes_coreference
+national_highway_traffic_safety_administration,nhtsa,1,1,yes_coreference
+national_security_agency,nsa,1,1,yes_coreference
+office_of_national_drug_control_policy,ondcp,1,1,yes_coreference
+tennessee_valley_authority,tva,1,1,yes_coreference
+agency_for_international_development,usaid,1,0.5,yes_coreference
+yugoslavia,croatia,6,0.5,no_coreference
+israel,korea,10,0.392825,no_coreference
